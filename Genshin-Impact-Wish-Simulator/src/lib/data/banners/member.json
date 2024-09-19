@@ -1,0 +1,36 @@
+{
+	"member": [
+		{
+			"version": 1,
+			"characters": ["charlotte", "beidou", "collei","furina"],
+			"featured": {
+				"bannerName": "chanson-of-many-waters-1",
+				"character": "furina"
+			}
+		},
+		{
+			"version": 2,
+			"characters": ["charlotte", "beidou", "collei","furina"],
+			"featured": {
+				"bannerName": "chanson-of-many-waters-1",
+				"character": "furina"
+			}
+		},
+		{
+			"version": 3,
+			"characters": ["charlotte", "beidou", "collei","furina"],
+			"featured": {
+				"bannerName": "chanson-of-many-waters-1",
+				"character": "furina"
+			}
+		},
+		{
+			"version": 4,
+			"characters": ["charlotte", "beidou", "collei","furina"],
+			"featured": {
+				"bannerName": "chanson-of-many-waters-1",
+				"character": "furina"
+			}
+		}
+	]
+}
